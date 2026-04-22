@@ -137,4 +137,3 @@ python skill_builder.py --output skill.md --model gemini-2.5-flash --skill-name 
 未來：
 - 加入 rerank
 - 支援 PDF
-- 使用真實資料來源
