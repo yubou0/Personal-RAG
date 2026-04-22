@@ -1,0 +1,5 @@
+# Python >= 3.10 required (developed with 3.13)
+sentence-transformers
+chromadb
+litellm
+python-dotenv
